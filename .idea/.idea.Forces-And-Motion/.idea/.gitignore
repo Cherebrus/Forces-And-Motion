@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Forces-And-Motion.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../:\Users\chere\Desktop\Study\HW\Finel Project\Phisics\Forces-And-Motion\.idea\.idea.Forces-And-Motion\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
